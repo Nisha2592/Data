@@ -1,7 +1,10 @@
 # italics and bold
+
 ## headings
 
-## Add image
+### Add image
 
-### Add link
-### inserting code
+#### Add link
+
+##### inserting code
+
